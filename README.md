@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Showcase](https://raw.githubusercontent.com/qNecro/Egg-Timer/main/preview.png)
 
 # Egg Timer
 
